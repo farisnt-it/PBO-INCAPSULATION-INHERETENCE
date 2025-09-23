@@ -29,7 +29,8 @@ Aplikasi ini dibangun untuk mendemonstrasikan penerapan konsep-konsep dasar **Pe
 
 ## Struktur Proyek
 
-<img width="484" height="373" alt="image" src="https://github.com/user-attachments/assets/55af5fab-e431-4b97-8205-5b25da81aa27" />
+<img width="553" height="299" alt="Screenshot 2025-09-23 104056" src="https://github.com/user-attachments/assets/3e0cbae6-07be-4604-a812-6abcb94d71bd" />
+
 
 ## Fitur & Contoh Input/Output
 
